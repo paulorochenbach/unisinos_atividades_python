@@ -1,0 +1,11 @@
+rua = input("Insira a rua: ")
+cep = input("Insira o CEP: ")
+bairro = input("Insira Bairro: ")
+casa = input("Numero Casa: ")
+complemento = input("Complemento: ")
+
+print("\nRua: {}".format(rua))
+print("Cep: {}".format(cep))
+print("Bairro: {}".format(bairro))
+print("Numero: {}".format(casa))
+print("Complemento: {}".format(complemento))

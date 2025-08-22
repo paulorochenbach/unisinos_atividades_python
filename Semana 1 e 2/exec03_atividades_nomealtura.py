@@ -1,0 +1,5 @@
+nome = input("Insira o seu nome: ")
+print("Nome: {}".format(nome))
+altura = float(input("Insira a sua altura: "))
+print("Altura: {:.3F}".format(altura))
+print("Muito obrigado por fornecer o seus dados")
